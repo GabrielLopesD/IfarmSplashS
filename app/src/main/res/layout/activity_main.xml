@@ -45,7 +45,7 @@
         android:layout_height="53dp"
         android:accessibilityLiveRegion="polite"
         android:fontFamily="@font/poppins"
-        android:text="Os melhores agricultores!!"
+        android:text="Os melhores agricultores!"
         android:textColor="#FFFF"
         android:textSize="23dp"
 
