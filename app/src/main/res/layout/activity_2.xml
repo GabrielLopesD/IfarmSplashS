@@ -46,7 +46,7 @@
         android:layout_height="53dp"
         android:accessibilityLiveRegion="polite"
         android:fontFamily="@font/poppins"
-        android:text="Confiança e qualidade!"
+        android:text="Confiança e qualidade!!!"
         android:textColor="#FFFF"
         android:textSize="23dp"
 
