@@ -11,8 +11,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         button.setOnClickListener() {
             intent = Intent(this, Activity2::class.java)
-            intent.putExtra("id", 1)
-            intent.putExtra("nome", "Gabriel")
+            intent.putExtra("id1", 1)
+            intent.putExtra("nome1", "Gabriel")
             startActivity(intent)
         }
     }

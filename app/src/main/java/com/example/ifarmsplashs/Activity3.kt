@@ -13,8 +13,8 @@ class Activity3 : AppCompatActivity() {
         setContentView(R.layout.activity_3)
         val bundle: Bundle? = intent.extras
 
-        val id = bundle?.get("id")
-        val nome = bundle?.get("nome")
+        val id = bundle?.get("id3")
+        val nome = bundle?.get("nome3")
 
         Toast.makeText(applicationContext, "ID: " + id.toString() + " NOME:" + nome,
             Toast.LENGTH_LONG).show()
